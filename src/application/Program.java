@@ -6,6 +6,7 @@ import outro.TrataExcessao;;
 public class Program {
 
 	public static void main(String[] args) {
+		System.out.println("good morning");
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Enter First number");
